@@ -3,10 +3,10 @@ Week 9 Homework
 Project Name
 Node Week 9 Homework
 
-Brief description of the project.
+Description
 we are creating a readme file directly in the terminal
 
-Instructions on how to install and set up the project.
+Instructions
 You need to download node in order to use NPM and access the packages within it. 
 
 Usage
